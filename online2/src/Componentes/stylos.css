@@ -1,0 +1,39 @@
+.iconos{
+	margin-right:  45px;
+	font-size: 30px;
+	cursor: pointer;
+	position: relative;
+	float: left;
+}
+
+.compras{
+	position: absolute;
+	background: red;
+	float: right;
+	margin-left: 30px;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 3px;
+	padding-top: 2px;
+}
+
+.font{	
+	font-size: 30px;
+}
+
+.catalogo{
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.productos{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

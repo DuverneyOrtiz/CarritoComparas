@@ -1,0 +1,7 @@
+.fondo{
+  background-image: url('./img/main-fondo.jpg');
+  background-attachment: fixed;
+  overflow: scroll;
+  width: 100%;
+  height: 700px;
+}
